@@ -8,4 +8,5 @@ def dot_product(m,n):
     print b
 print m
 print n
+print "this is the answer"
 dot_product(m,n)
