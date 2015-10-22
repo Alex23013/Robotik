@@ -57,7 +57,7 @@ void loop()
   //lam =((h/1800)-0.1); 
   g= p * pi/180.0;
   float x=cos(g);
-  float y=sin(g);A
+  float y=sin(g);
   motores(x,y,lam);
   for (int i=0;i<4;i++)
       {
